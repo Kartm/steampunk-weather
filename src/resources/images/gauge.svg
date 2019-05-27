@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #543f2b;
+        stroke: #8d4600;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #303030;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0.75px;
+      }
+
+      .cls-10, .cls-3, .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #343434;
+      }
+
+      .cls-6 {
+        stroke: #0f0f0f;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        fill: #9c9c9c;
+      }
+
+      .cls-7, .cls-8 {
+        stroke: #2a2a2a;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.982" y1="0.358" x2="0.37" y2="1.16" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eee7d7"/>
+      <stop offset="1" stop-color="#b9af94"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_13" data-name="Group 13" transform="translate(-171 -46)">
+    <g id="Group_11" data-name="Group 11">
+      <g id="Group_9" data-name="Group 9">
+        <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(171 46)">
+          <circle class="cls-9" cx="55" cy="55" r="55"/>
+          <circle class="cls-10" cx="55" cy="55" r="54.5"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(-3 -11)">
+          <g id="Group_4" data-name="Group 4">
+            <g id="Ellipse_3" data-name="Ellipse 3" class="cls-2" transform="translate(226 59)">
+              <circle class="cls-9" cx="3.5" cy="3.5" r="3.5"/>
+              <circle class="cls-10" cx="3.5" cy="3.5" r="3.125"/>
+            </g>
+            <path id="Path_427" data-name="Path 427" class="cls-3" d="M-.109,3.418,2.822-.094" transform="translate(228.039 60.738)"/>
+          </g>
+          <g id="Group_5" data-name="Group 5">
+            <g id="Ellipse_3-2" data-name="Ellipse 3" class="cls-2" transform="translate(226 59)">
+              <circle class="cls-9" cx="3.5" cy="3.5" r="3.5"/>
+              <circle class="cls-10" cx="3.5" cy="3.5" r="3.125"/>
+            </g>
+            <path id="Path_427-2" data-name="Path 427" class="cls-3" d="M-.109,3.418,2.822-.094" transform="translate(228.039 60.738)"/>
+          </g>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(-53 39)">
+          <g id="Group_4-2" data-name="Group 4">
+            <g id="Ellipse_3-3" data-name="Ellipse 3" class="cls-2" transform="translate(226 59)">
+              <circle class="cls-9" cx="3.5" cy="3.5" r="3.5"/>
+              <circle class="cls-10" cx="3.5" cy="3.5" r="3.125"/>
+            </g>
+            <path id="Path_427-3" data-name="Path 427" class="cls-3" d="M-.109,3.418,2.822-.094" transform="translate(228.039 60.738)"/>
+          </g>
+          <g id="Group_5-2" data-name="Group 5">
+            <g id="Ellipse_3-4" data-name="Ellipse 3" class="cls-2" transform="translate(226 59)">
+              <circle class="cls-9" cx="3.5" cy="3.5" r="3.5"/>
+              <circle class="cls-10" cx="3.5" cy="3.5" r="3.125"/>
+            </g>
+            <path id="Path_427-4" data-name="Path 427" class="cls-3" d="M-.109,3.418,2.822-.094" transform="translate(228.039 60.738)"/>
+          </g>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(46 40)">
+          <g id="Group_4-3" data-name="Group 4">
+            <g id="Ellipse_3-5" data-name="Ellipse 3" class="cls-2" transform="translate(226 59)">
+              <circle class="cls-9" cx="3.5" cy="3.5" r="3.5"/>
+              <circle class="cls-10" cx="3.5" cy="3.5" r="3.125"/>
+            </g>
+            <path id="Path_427-5" data-name="Path 427" class="cls-3" d="M-.109,3.418,2.822-.094" transform="translate(228.039 60.738)"/>
+          </g>
+          <g id="Group_5-3" data-name="Group 5">
+            <g id="Ellipse_3-6" data-name="Ellipse 3" class="cls-2" transform="translate(226 59)">
+              <circle class="cls-9" cx="3.5" cy="3.5" r="3.5"/>
+              <circle class="cls-10" cx="3.5" cy="3.5" r="3.125"/>
+            </g>
+            <path id="Path_427-6" data-name="Path 427" class="cls-3" d="M-.109,3.418,2.822-.094" transform="translate(228.039 60.738)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_10" data-name="Group 10">
+        <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-4" cx="44" cy="44" r="44" transform="translate(182 57)"/>
+        <g id="Group_8" data-name="Group 8">
+          <g id="Ellipse_6" data-name="Ellipse 6" class="cls-5" transform="translate(220 120)">
+            <circle class="cls-9" cx="7" cy="7" r="7"/>
+            <circle class="cls-10" cx="7" cy="7" r="6.5"/>
+          </g>
+          <line id="METER" class="cls-6" x1="37" y1="31" transform="translate(189.5 95.5)"/>
+        </g>
+        <path id="Intersection_1" data-name="Intersection 1" class="cls-7" d="M-414.593,70.547h72.882A44.444,44.444,0,0,1-378.151,89.5,44.445,44.445,0,0,1-414.593,70.547Z" transform="translate(604.152 56)"/>
+      </g>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-8" transform="translate(181 56)">
+      <circle class="cls-9" cx="45" cy="45" r="45"/>
+      <circle class="cls-10" cx="45" cy="45" r="44.5"/>
+    </g>
+  </g>
+</svg>
