@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import HeaderButton from './HeaderButton'
-import HeaderText from './HeaderText'
+import HeaderSearchArea from './HeaderSearchArea'
 import MenuIcon from '../../resources/icons/menu.svg'
 import SearchIcon from '../../resources/icons/search.svg'
 
@@ -16,10 +16,6 @@ const HeaderStyle = styled.div`
 
 class Header extends Component {
     render() {
-        const headerCityText = ({ userData }) => {
-            if (userData === null) return false
-            return `${userData.cityName}, ${userData.countryName}`
-        }
         return (
             <HeaderStyle>
                 <HeaderButton
@@ -28,11 +24,9 @@ class Header extends Component {
                     }}
                     icon={MenuIcon}
                 />
-                <HeaderText
-                    text={
-                        headerCityText({ ...this.props }) ||
-                        'Please choose a city.'
-                    }
+                <HeaderSearchArea
+                    userData={this.props.userData}
+                    onCitySelect={this.props.onCitySelect}
                 />
                 <HeaderButton icon={SearchIcon} />
             </HeaderStyle>

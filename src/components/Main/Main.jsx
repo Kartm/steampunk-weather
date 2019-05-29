@@ -10,14 +10,28 @@ const MainStyle = styled.div`
 `
 
 class Main extends Component {
+    /*
+    userData.cityName
+    userData.countryName
+    userData.tempUnits
+    weatherData.current.temp
+    weatherData.current.weather
+    weatherData.forecast[].temp
+    weatherData.forecast[].weather
+    */
+
     state = {
-        userData: null
+        userData: null,
+        //weatherData: null
+        weatherData: {
+            temp: 10
+        }
     }
     render() {
         return (
             <MainStyle>
                 <Header userData={this.state.userData} />
-                <Content />
+                <Content weatherData={this.state.weatherData} />
             </MainStyle>
         )
     }
